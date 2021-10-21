@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">AppFragments</string>
+    <string name="fragment_a">FRAGMENT A</string>
+    <string name="fragment_b">FRAGMENT B</string>
+    <string name="actividad_principal">ACTIVIDAD PRINCIPAL</string>
+</resources>
